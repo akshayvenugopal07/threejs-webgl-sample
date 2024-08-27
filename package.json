@@ -1,0 +1,25 @@
+{
+  "name": "threejs-webgl-sample",
+  "version": "1.0.0",
+  "description": "A sample for studying WebGL and ThreeJS and understand the concepts",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayvenugopal07/threejs-webgl-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayvenugopal07/threejs-webgl-sample/issues"
+  },
+  "homepage": "https://github.com/akshayvenugopal07/threejs-webgl-sample#readme",
+  "dependencies": {
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
